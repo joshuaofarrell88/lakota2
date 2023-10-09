@@ -28,7 +28,6 @@ h2 {
   text-decoration: none;
   padding: 0 4%;
   font-size: 2rem;
-  z-index: 999; 
 }
 .navbar {
   background-image: url(./images/pf-s96-pm-0053-02.jpg); /* Replace 'your-image.jpg' with your image path */
